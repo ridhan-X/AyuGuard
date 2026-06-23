@@ -1,22 +1,18 @@
-AyuGuard V1 BETA
+# AyuGuard V1 BETA 🛡️
 
-​AyuGuard is a fast, lightweight, and offline-first personal safety shield designed for instant emergency assistance.
+A fast, lightweight, and privacy-first personal safety app designed for offline-first emergency assistance.
 
-​🛡️ Core Philosophy
-​Offline First: Operates without relying on cloud servers.
-​Privacy Focused: We do not collect, track, or store any personal data. All information stays locally on your device.
-​Minimalist: A clutter-free, tactical interface built for speed during emergencies.
+## 🌟 Core Features
+* **100% Privacy:** No cloud servers, no data tracking. 
+* **Local Storage:** All trusted contacts and settings stay on your device.
+* **Quick SOS:** Fast manual trigger with location and battery details.
+* **Journey Mode:** Timer-based safety net for rides.
 
-​🚀 Key Features
-​Manual SOS: Instant emergency dispatch with a 2-minute grace period and 27-second alarm.
-​Hardware SOS: Trigger emergency flow using physical volume buttons.
-​Journey Mode: Timed safety check with automatic SOS if not stopped.
-​Indoor/Basement Fallback: Smart location caching ensures location accuracy even when GPS is weak.
-​OTA Updates: Direct update capability via GitHub.
+## 🚀 Live UI Preview
+👉 **[Click here to test the App UI](Aapka_Vercel_Link_Yahan_Daalein)**
+*(Note: Since this is a web preview, native features like automated background SMS and actual GPS fetching will only work in the final Android APK).*
 
-​🧪 Beta Testing
-​AyuGuard is currently in its BETA phase. We are looking for real-world testing and community feedback to improve reliability and performance.
+## 💬 We Need Your Feedback!
+This is a community beta. If you find bugs or have ideas, please let us know in the **[Discussions Tab](Aapke_Discussions_Page_Ka_Link_Yahan_Daalein)**.
 
-​💬 Feedback & Support
-​Found a bug or have a feature request? Please open an Issue in this repository. We value your input to make AyuGuard better for everyone.
-​MADE WITH ❤️ BY RIDHAN
+Made with ❤️ by RIDHAN.
